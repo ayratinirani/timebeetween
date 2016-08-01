@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ayratin_timelib/ayratin_timelib.iml" filepath="$PROJECT_DIR$/ayratin_timelib/ayratin_timelib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timebeetween.iml" filepath="$PROJECT_DIR$/timebeetween.iml" />
+    </modules>
+  </component>
+</project>
